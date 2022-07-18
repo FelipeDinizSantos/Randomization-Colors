@@ -1,0 +1,1 @@
+Por meio de codigo javaScript vanila, está aplicação randomiza cores a partir do formato RGB, as exibindo em uma div por meio de intervalos, possuindo botões que podem parar e iniciar os mesmos.
